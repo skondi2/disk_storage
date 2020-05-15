@@ -1,6 +1,6 @@
-# disk_storage
+# Disk Storage
 
-Disk_Storage is a C program that is designed to identify file that is within the current directory or within user specified directory that is taking up maximum file system storage.
+storage.c is a C program that is designed to identify the file within the current directory or within the user specified directory that is taking up maximum file system storage.
 
 # Usage
 Below is command line usage example to find file within /Users directory that is using maximum storage.
